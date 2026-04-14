@@ -1,0 +1,4 @@
+The following table shows mortality data and graduated mortality rates of male and female members of a pension scheme (file xslx)
+The table was graduated using the following parametric formula              
+                    log(mu_x) = alpha + beta I_f + delta x                   
+When I_f is an indicator variable taking the value 1 for female members and 0 for male members 
