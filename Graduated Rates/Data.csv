@@ -1,0 +1,12 @@
+Gender;Age (x years);Exposed to risk;Observed deaths;Graduated rates
+Female;70;1007;153;0.14227
+Female;71;978;166;0.1653
+Female;72;1111;204;0.19205
+Female;73;1500;326;0.22313
+Female;74;1200;306;0.25924
+Female;75;2001;599;0.30119
+Male;70;908;338;0.36788
+Male;71;998;439;0.42742
+Male;72;1009;497;0.49659
+Male;73;877;508;0.57695
+Male;74;859;571;0.67032
